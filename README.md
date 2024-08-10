@@ -1,3 +1,18 @@
-# detection-temporomandibular-disorder
-Temporomandibular disorders are disorders of the jaw muscles that are detected by 10 symptoms like: jaw stiffness, facial pain, jaw pain, chewing difficulty, ear pain, headache, joint locking, muscle spasms etc. 
-For detection, there are 5 machine learning algorithms used: Artificial Neural Network, Support Vector Machine, Logistic Regression, K-Nearest Neighbor, and Multi-Layer Perceptron.
+# Detection of Temporomandibular Disorders using features of Machine Learning Algorithms
+The main objective of this project is to predict Temporomandibular disorders (TMD) from the symptoms which are given by patients. These are the disorders of the jaw muscles, temporomandibular joints, and the nerves associated with chronic facial pain. Any problem that prevents the complex system of muscles, bones, and joints from working together in harmony may result in temporomandibular disorder. TMD patients have symptoms like: Facial Pain, Jaw Stiffness, Jaw Pain, Chewing Difficulty, Ear Pain, Headache, Mouth Pain, Joint Locking, Dizziness and Muscle Spasms. The identification and prediction of such disorder at their earlier stages are much important to prevent the extremity of it.
+
+# Project Advantages
+The project is useful to the Neurologists in getting an understanding about the factors leading to Temporomandibular Disorders
+
+The project is useful to the data analysts to get an idea about multi-layer perceptron classification.
+
+This project finally leads to the improvement of quality of life of patients suffering from Temporomandibular Disorders.
+
+# Technologies Used
+Python
+Numpy
+Pandas
+Sklearn
+Matplotlib
+TensorFlow
+Keras
