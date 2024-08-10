@@ -3,7 +3,7 @@ The main objective of this project is to predict Temporomandibular disorders (TM
 
 # Project Advantages
 - The project is useful to the Neurologists in getting an understanding about the factors leading to Temporomandibular Disorders
-- The project is useful to the data analysts to get an idea about multi-layer perceptron classification.
+- It is also useful to the data analysts to get an idea about multi-layer perceptron classification.
 - This project finally leads to the improvement of quality of life of patients suffering from Temporomandibular Disorders.
 
 # Technologies Used
@@ -14,3 +14,10 @@ The main objective of this project is to predict Temporomandibular disorders (TM
 - Matplotlib
 - TensorFlow
 - Keras
+
+# Software requirements
+- Google Colab
+- Or Jupyter Notebook
+
+# Result
+![image](https://github.com/user-attachments/assets/5e1fc13b-c4a0-4b8e-8a02-6a567694caca)
